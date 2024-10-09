@@ -1,4 +1,4 @@
-# Identifying Factors Involved in Temperature-Sensitive Expression of Polycomb Group-Regulated Genes Using Machine Learning
+# Predicting Temperature-Sensitive Expression of Polycomb Group-Regulated Genes Using Machine Learning and Identifying Underlying Transcription Factors via Shapley Analysis
 
 Polycomb group (PcG) proteins, evolutionarily conserved across higher eukaryotes, epigenetically silence hundreds of genes crucial in development, differentiation, and various biological processes like cell cycle control, metabolism, and tissue homeostasis<sup>1-4</sup>. Their dysregulation can lead to diseases, most notably cancer, highlighting their significance in maintaining cellular integrity<sup>3,4</sup>.
 
